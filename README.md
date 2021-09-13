@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84QQ-413980957-5bc648?logo=Tencent%20QQ&style=for-the-badge" />
   </a>
   <a href="http://www.52im.net/thread-2792-1-1.html">
-    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E9%82%AE%E7%AE%B1-jb2011@163.com-5bc648?logo=Mail.Ru&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E9%82%AE%E7%AE%B1-jb2011@163.com-5bc648?logo=Mail%2ERu&style=for-the-badge" />
   </a>
 </p>
 
