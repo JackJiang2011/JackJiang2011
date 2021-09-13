@@ -6,20 +6,14 @@
 
 <p align="center">
   <a href="http://www.52im.net/">
-    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99-%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%BD%91-green?logo=Embarcadero&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99-%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%BD%91-5bc648?logo=Embarcadero&style=for-the-badge" />
   </a>
-  <a href="https://mp.weixin.qq.com/s/WicJOwSwO9HRdu39jOR7TQ">
-    <img src="https://img.shields.io/badge/🚀%20微信公众号-brightness.svg" />
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=413980957&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84QQ-413980957-5bc648?logo=Embarcadero&style=for-the-badge" />
   </a>
-  <a href="https://gitee.com/getActivity">
-    <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
+  <a href="http://www.52im.net/thread-2792-1-1.html">
+    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E9%82%AE%E7%AE%B1-jb2011@163.com-5bc648?logo=Embarcadero&style=for-the-badge" />
   </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=7eeXOuUkZl5A5jLBh4WgcWsma2VxK6hJ&jump_from=webapi">
-    <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg" />
-  </a>
-  <a href="https://github.com/getActivity">
-    <img src="https://komarev.com/ghpvc/?username=getActivity&color=brightgreen&label=👁%20Views" />
-  </a>  
 </p>
 
 
